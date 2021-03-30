@@ -1,0 +1,155 @@
+% Compte-rendu minimal du mini-projet SDA : LCA et TH
+% Auteur : LAANAIYA MAHMOUD
+% Groupe de TP : J-3
+
+
+**Consigne :** Vous devez écrire vos réponse à la place des ... en laissant
+une ligne vide avant et deux après votre réponse.
+
+**Remarque :** Ce document utilise le langage Markdown. On peut en engendrer
+une version PDF en faisant par exemple :
+
+~~~
+pandoc --toc -N -o LISEZ-MOI.pdf LISEZ-MOI.txt
+~~~
+
+
+# Exercice 1
+
+## Question 1.4
+
+**Indiquer les inconvénients/avantages d'une implantation par listes chaînées
+d'une SDA.**
+
+LES INCONVÉNIENTS:
+*La clé est liée à sa donnée correspondante, on ne peut pas alors enregistrer une clé sans cette dernière.
+*On ne peut pas parcourir une SDA dans le sens inverse du parcours normal.
+
+LES AVANTAGES:
+*Une SDA permet de trouver une donnée à l´aide d´une clé.
+*On peut l´utiliser comme un moyen de cryptographie.
+*Modifier/Ajout/Suppression d´une donnée dans une SDA.
+
+
+# Évaluation expérimentale.
+
+## Performance comparée de LCA et TH
+
+Indiquer ici les résultats obtenus.
+
+*Pour evaluer_alea_lca:
+1/ ./evaluer_alea_lca 1000 10
+   Borne  : 1000
+   Taille : 10
+   Min : 1
+   Max : 1
+
+2/ ./evaluer_alea_lca 1000 100
+   Borne  : 1000
+   Taille : 100
+   Min : 1 
+   Max : 2
+
+3/ ./evaluer_alea_lca 1000 1000
+   Borne  : 1000
+   Taille : 1000
+   Min : 1
+   Max : 6
+
+
+4/ ./evaluer_alea_lca 1000 10000
+   Borne  : 1000
+   Taille : 10000
+   Min : 1
+   Max : 19
+5/ ./evaluer_alea_lca 1000 100000
+   Borne  : 1000
+   Taille : 100000
+   Min : 71
+   Max : 135
+ 
+
+*Pour evaluer_alea_th:
+1/ ./evaluer_alea_th 1000 10
+   Borne  : 1000
+   Taille : 10
+   Min : 1
+   Max : 1
+
+2/ ./evaluer_alea_th 1000 100
+   Borne  : 1000
+   Taille : 100
+   Min : 1
+   Max : 2
+
+3/ ./evaluer_alea_th 1000 1000
+   Borne  : 1000
+   Taille : 1000
+   Min : 1
+   Max : 7
+
+4/ ./evaluer_alea_th 1000 10000
+   Borne  : 1000
+   Taille : 10000
+   Min : 1
+   Max : 28
+
+5/ ./evaluer_alea_th 1000 100000
+   Borne  : 1000
+   Taille : 100000
+   Min : 73
+   Max : 135
+
+6/ ./evaluer_alea_th 1000 1000000
+   Borne  : 1000
+   Taille : 1000000
+   Min : 911
+   Max : 1123
+
+7/ ./evaluer_alea_th 1000 10000000
+   Borne  : 1000
+   Taille : 10000000
+   Min : 9706
+   Max : 10344
+
+
+
+## Qualité du générateur aléatoire
+
+Indiquer les conclusions quant à la qualité du générateur aléatoire.
+
+*D´après les tests au dessus, on voit que la qualité du générateur aléatoire diminue en augmentant la taille de l´échantillon.
+*Dans les tests, on peux voir que la qualité dans une TH est un peu plus moins que celle d´une LCA.
+*Une LCA prend plus de temps qu´une TH  pour générer les valeurs Min et Max.
+
+
+# Principales difficultés rencontrées
+
+Indiquer ici les principales difficultés rencontrées lors de la réalisation de
+ce projet et comment elles ont été surmontées ou contournéeS.
+
+*Exercice 1:
+
+Puisque je n´avais pas bien saisis la notion des pointeurs, j´ai eu des problèmes pour liberer des zones mémoire, donc j´ai eu beaucoup de problèmes sur Valkyrie. J´ai repris mon cours des pointeurs (+TDS), et j´ai pu régler le problème. En fait, le problème était dans ma procédure Enregistrer,Supprimer et Vider.
+
+*Exercice 2:
+
+C´était plus facile que l´exercice 1 car c´était une analogie en utilisant les procédure et les fonctions de l´exercice 1. Ma difficulté c´était dans la définition d´un tableau de pointeurs dans th.ads, et puis dans l´utilisation du modulo par rapport à la capacité du tableau.
+
+
+
+# Informations complémentaires
+
+Indiquer ici les informations qui pourraient aider à la compréhension du
+travail réalisé.
+
+**Des schémas dans la feuille du TP (surtout lorsqu´il s´agit de pointeurs) vont être très utiles pour mieux comprendre ce qui est demandé.
+
+
+# Bilan personnel
+
+Quel bilan personnel tirez vous de ce mini-projet ?
+
+Le mini-projet a presque balayé tout ce qu´on avait vu au cours, j´ai pu en fait réviser mon cours et developper des méthodes grâce à ce mini-projet.
+
+

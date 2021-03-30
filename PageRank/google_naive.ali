@@ -1,0 +1,149 @@
+V "GNAT Lib v7"
+A -O2
+A -gnatA
+A -g
+A -gnateE
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U google_naive%b	google_naive.adb	b7ad86d8 NE OO PK GE
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.io_exceptions%s	a-ioexce.ads		a-ioexce.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W lca%s			lca.adb			lca.ali
+
+U google_naive%s	google_naive.ads	6dbd34cb BN EE NE OO PK GE
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.unchecked_deallocation%s
+W lca%s			lca.adb			lca.ali
+Z sda_exceptions%s	sda_exceptions.ads	sda_exceptions.ali
+
+D ada.ads		20170106103348 76789da1 ada%s
+D a-except.ads		20151016123252 291912d5 ada.exceptions%s
+D a-inteio.ads		20070406091342 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20140225151544 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20141120112812 119b8fb3 ada.streams%s
+D a-tags.ads		20151016130316 01f5e3ef ada.tags%s
+D a-textio.ads		20140717063745 386df5d4 ada.text_io%s
+D a-tiinio.ads		20140717063513 aa04e5d6 ada.text_io.integer_io%s
+D a-unccon.ads		20170106103348 31484697 ada.unchecked_conversion%s
+D a-uncdea.ads		20070406091342 f15a5ed1 ada.unchecked_deallocation%s
+D google_naive.ads	20210120144054 aaa01f9d google_naive%s
+D google_naive.adb	20210120122236 c8fb24d3 google_naive%b
+D interfac.ads		20160502101001 5ab55268 interfaces%s
+D i-cstrea.ads		20140801100435 e53d8b8e interfaces.c_streams%s
+D lca.ads		20210116170656 ff70de82 lca%s
+D lca.adb		20210117013241 0e2efe96 lca%b
+D sda_exceptions.ads	20201221202800 58fab764 sda_exceptions%s
+D system.ads		20170510173650 4635ec04 system%s
+D s-crtl.ads		20141120112812 0ebbdb71 system.crtl%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-ficobl.ads		20140718105747 078245e4 system.file_control_block%s
+D s-parame.ads		20140801093848 7e2a0d7f system.parameters%s
+D s-soflin.ads		20151020124036 14e1eb6c system.soft_links%s
+D s-stache.ads		20140225151139 a37c21ec system.stack_checking%s
+D s-stalib.ads		20151112104907 09bd3940 system.standard_library%s
+D s-stoele.ads		20140225151139 2dc34a04 system.storage_elements%s
+D s-traent.ads		20140730135025 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20160502101423 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20140718092328 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 20e8 11|2r6 12|1r6 2r6 2r23 3r6 3r31
+X 3 a-inteio.ads
+18K13*Integer_Text_IO[8|46] 12|3w10 3r35
+X 4 a-ioexce.ads
+18K13*IO_Exceptions 30e22 12|1w10
+X 7 a-textio.ads
+49K13*Text_IO 471e16 11|2w10 12|2w10 2r27
+X 11 google_naive.ads
+6i4 Borne{integer} 52r31 52r41 54r32 56r39 62r32 12|14r24 18r16 20r22 30r16
+. 32r26 40r16 41r22 56r26 80r30 82r29 96r26 98r29 153r19
+8k9*Google_Naive 6z4 52E9 64l5 64e17 12|6b14 170l5 170t17
+10F9*T_Double<short_float> 34r92 38r74 52r51 54r42 12|10r8 11r14 12r14 12r26
+. 14r15 19r15 78r14 80r21 92r12 114r92 128r74 150r13
+11A9*T_Network(15|11P14[59]) 17r59 23r47 62c9 12|9r59 67r47
+12A9*T_Google(10F9) 17r36 20r33 26r38 31r38 52c9 12|9r36 52r33 77r38 91r38
+13A9*T_Vecteur(10F9) 31r58 34r49 38r40 45r46 47r37 54c9 12|91r58 93r15 114r49
+. 128r40 143r49 149r37
+14A9*T_Vecteur_Entier(integer) 36r56 40r47 43r46 56c9 12|121r56 133r47 138r46
+17U14*Initialiser_G 17<29 17>46 17>70 12|9b14 48l8 48t21
+17a29 G{12A9} 12|9b29 22m16 24m16 31r28 33m16 42m13 42r31
+17a46 Network{11A9} 12|9b46 19r37 21r35
+17f70 Alpha{float} 12|9b70 12r35
+20V13*Est_Ligne_Vide{boolean} 20>29 20>43 27s13 28s18 12|31s13 52b13 64l8
+. 64t22 81s13
+20a29 G{12A9} 12|52b29 57r16
+20i43 index{integer} 12|52b43 57r18
+23U14*Enregistrer_Net 23=30 23>58 23>81 23>103 12|67b14 72l8 72t23
+23a30 Network{11A9} 12|67b30 70m26 70r26
+23i58 pointeur{integer} 12|67b58 70r43
+23i81 pointee{integer} 12|67b81 70r34
+23i103 Value{integer} 12|67b103 70r52
+26U14*Remplissage 26=27 26>48 12|77b14 87l8 87t19
+26a27 G{12A9} 27r28 28r33 12|77b27 81r28 83m16
+26i48 index{integer} 27r30 28r35 12|77b48 81r30 83r18
+31U14*Multiplication_N 31>31 31=48 12|91b14 109l8 109t24
+31a31 G{12A9} 12|91b31 100r33
+31a48 V{13A9} 12|91b48 100r48 107m10
+34U14*Affectation 34=26 34>60 34>76 12|114b14 119l8 119t19
+34a26 Vecteur_poids{13A9} 12|114b26 117m7
+34i60 i{integer} 12|114b60 117r21
+34f76 V_initiale{10F9} 12|114b76 117r27
+36U14*Affectation_Entier 36=33 36>74 36>90 12|121b14 126l8 126t26
+36a33 Vecteur_poids{14A9} 12|121b33 124m7
+36i74 i{integer} 12|121b74 124r21
+36i90 V{integer} 12|121b90 124r27
+38V13*Valeur{10F9} 38>21 38>51 12|128b13 131l8 131t14
+38a21 Vecteur_poids{13A9} 12|128b21 130r14
+38i51 i{integer} 12|128b51 130r28
+40V13*Valeur_Entier{integer} 40>28 40>65 12|133b13 136l8 136t21
+40a28 Vecteur_poids{14A9} 12|133b28 135r14
+40i65 i{integer} 12|133b65 135r28
+43U14*Decalage 43=24 43>63 43>78 12|138b14 141l8 141t16
+43a24 Vecteur_rang{14A9} 12|138b24 140m7 140r26
+43i63 i{integer} 12|138b63 140r20
+43i78 j{integer} 12|138b78 140r39
+45U14*Decalage 45=24 45>56 45>71 12|143b17 146l8 146t16
+45a24 Vecteur_rang{13A9} 12|143b27 145m7 145r26
+45i56 i{integer} 12|143b59 145r20
+45i71 j{integer} 12|143b74 145r39
+47U14*Trier 47=20 12|149b14 168l8 168t13
+47a20 Vecteur{13A9} 12|149b20 155r21 158r30 160m14 160r28 165m10
+59K12 P_LCA[15|9] 60r8 12|19r24 21r16 70r8
+X 12 google_naive.adb
+10f4 N{11|10F9} 19m10 22r30
+11f4 Borne_D{11|10F9} 14m4 33r30 42r54
+12f4 Alpha_D{11|10F9} 42r23 42r45
+18i8 i{integer} 19r45 21r43 22r18 24r18
+20i14 j{integer} 21r46 22r20 24r20
+30i8 i{integer} 31r30 33r18
+32i17 j{integer} 33r20
+40i8 i{integer} 42r15 42r33
+41i14 j{integer} 42r17 42r35
+56i14 jndex{integer} 57r24
+78f4 Borne_D{11|10F9} 80m10 83r38
+82i17 jndex{integer} 83r24
+92f4 Somme{11|10F9} 100m16 100r25 102r32 105m13
+93a4 V_tampon{11|13A9} 102m13 107r15
+96i14 index{integer} 100r41 102r22
+98i17 jndex{integer} 100r35 100r50
+150f4 Tampon{11|10F9} 155m11 158r45 165r24
+151i4 j{integer} 156m11 158r17 158r38 160r22 160r36 162m14 162r19 165r18
+153i11 i{integer} 155r29 156r16
+X 15 lca.ads
+9k9*LCA 11|1w6 59r25 12|4w6 15|80e8
+11P14 T_LCA 11|62r42[59]
+23V18 Taille{integer} 12|19s30[11|59]
+30U19 Enregistrer 12|70s14[11|59]
+46V18 Cle_Presente{boolean} 12|21s22[11|59]
+

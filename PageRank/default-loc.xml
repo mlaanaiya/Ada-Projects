@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_creux.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 42" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 141" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_creux.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_creux.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 48" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_creux.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/lca.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/sda_exceptions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-string.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-string.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 30" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-string.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-string.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/sda_exceptions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-string.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 629" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-strunb.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 227" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-strunb.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 249" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 20" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 249" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 20" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 29" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 80" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 90" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-tiinio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 80" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 90" >
+      <vfs_project />
+      <vfs_file>/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-tiinio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 10" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 10" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 6" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 307" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 220" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 193" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 189" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 185" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 189" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 81" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 293" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 293" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 57" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 57" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 57" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 57" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 57" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 2" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 57" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 293" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 86" line=" 303" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 203" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 200" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 29" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 20" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 265" >
+      <vfs_project>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr</vfs_project>
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 26" line=" 20" >
+      <vfs_project />
+      <vfs_file>/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

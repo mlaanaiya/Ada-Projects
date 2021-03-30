@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__exemple_alea.o
+[PROJECT FILES]
+/home/mlaanaiy/pim/tp/tp10/tp10.gpr
+20201118125726
+[BOUND OBJECT FILES]
+/home/mlaanaiy/pim/tp/tp10/alea.o
+/home/mlaanaiy/pim/tp/tp10/exemple_alea.o
+[GENERATED SOURCE FILES]
+b__exemple_alea.ads
+b__exemple_alea.adb
+b__exemple_alea.ali
+[RESULTING OPTIONS]
+-L/home/mlaanaiy/pim/tp/tp10/
+-L/home/mlaanaiy/pim/tp/tp10/
+-L/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/adalib/
+-static
+-static-libgcc
+/applications/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/adalib/libgnat.a
+-ldl

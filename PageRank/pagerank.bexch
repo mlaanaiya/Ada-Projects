@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__pagerank.o
+[PROJECT FILES]
+/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/default.gpr
+20201221202800
+[BOUND OBJECT FILES]
+/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/sda_exceptions.o
+/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/lca.o
+/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_creux.o
+/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/google_naive.o
+/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/pagerank.o
+[GENERATED SOURCE FILES]
+b__pagerank.ads
+b__pagerank.adb
+b__pagerank.ali
+[RESULTING OPTIONS]
+-L/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/
+-L/home/aloudyi/annee_1/pim/tp/projet/IJ-01/livrables/sources/
+-L/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+-shared
+-shared-libgcc
+-lgnat-7
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+/usr/lib

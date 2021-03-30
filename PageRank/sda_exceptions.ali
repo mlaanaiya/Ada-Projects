@@ -1,0 +1,28 @@
+V "GNAT Lib v7"
+A -O2
+A -gnatA
+A -g
+A -gnateE
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U sda_exceptions%s	sda_exceptions.ads	58fab764 EE OO PK
+W system%s		system.ads		system.ali
+W system.exception_table%s  s-exctab.adb	s-exctab.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+
+D ada.ads		20170106103348 76789da1 ada%s
+D a-unccon.ads		20170106103348 31484697 ada.unchecked_conversion%s
+D sda_exceptions.ads	20201221202800 58fab764 sda_exceptions%s
+D system.ads		20170510173650 4635ec04 system%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-stalib.ads		20151112104907 09bd3940 system.standard_library%s
+X 3 sda_exceptions.ads
+2K9*SDA_Exceptions 6l5 6e19
+4X9*Cle_Absente_Exception
+

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_file>
+    <file_marker column=" 18" line=" 71" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/lca.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 42" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/lca_sujet.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 132" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/lca.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/test_lca.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/th_sujet.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/th.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/th.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/mlaanaiy/pim/tp/tp10/tp10.gpr</vfs_project>
+      <vfs_file>/home/mlaanaiy/pim/tp/tp10/test_th.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

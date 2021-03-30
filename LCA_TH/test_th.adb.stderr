@@ -1,0 +1,2 @@
+test_th.adb:280:35: warning: formal parameter "Cle" is not referenced
+test_th.adb:344:25: warning: exception "Nouvelle_Exception" is not referenced

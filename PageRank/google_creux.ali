@@ -1,0 +1,135 @@
+V "GNAT Lib v7"
+A -O2
+A -gnatA
+A -g
+A -gnateE
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U google_creux%b	google_creux.adb	4f0c3b82 NE OO PK GE
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.io_exceptions%s	a-ioexce.ads		a-ioexce.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W lca%s			lca.adb			lca.ali
+
+U google_creux%s	google_creux.ads	9620c883 BN EE NE OO PK GE
+Z ada%s			ada.ads			ada.ali
+Z ada.unchecked_deallocation%s
+W lca%s			lca.adb			lca.ali
+Z sda_exceptions%s	sda_exceptions.ads	sda_exceptions.ali
+
+D ada.ads		20170106103348 76789da1 ada%s
+D a-except.ads		20151016123252 291912d5 ada.exceptions%s
+D a-inteio.ads		20070406091342 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20140225151544 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20141120112812 119b8fb3 ada.streams%s
+D a-tags.ads		20151016130316 01f5e3ef ada.tags%s
+D a-textio.ads		20140717063745 386df5d4 ada.text_io%s
+D a-tiinio.ads		20140717063513 aa04e5d6 ada.text_io.integer_io%s
+D a-unccon.ads		20170106103348 31484697 ada.unchecked_conversion%s
+D a-uncdea.ads		20070406091342 f15a5ed1 ada.unchecked_deallocation%s
+D google_creux.ads	20210120130411 69501601 google_creux%s
+D google_creux.adb	20210120122236 f3aa9015 google_creux%b
+D interfac.ads		20160502101001 5ab55268 interfaces%s
+D i-cstrea.ads		20140801100435 e53d8b8e interfaces.c_streams%s
+D lca.ads		20210116170656 ff70de82 lca%s
+D lca.adb		20210117013241 0e2efe96 lca%b
+D sda_exceptions.ads	20201221202800 58fab764 sda_exceptions%s
+D system.ads		20170510173650 4635ec04 system%s
+D s-crtl.ads		20141120112812 0ebbdb71 system.crtl%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-ficobl.ads		20140718105747 078245e4 system.file_control_block%s
+D s-parame.ads		20140801093848 7e2a0d7f system.parameters%s
+D s-soflin.ads		20151020124036 14e1eb6c system.soft_links%s
+D s-stache.ads		20140225151139 a37c21ec system.stack_checking%s
+D s-stalib.ads		20151112104907 09bd3940 system.standard_library%s
+D s-stoele.ads		20140225151139 2dc34a04 system.storage_elements%s
+D s-traent.ads		20140730135025 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20160502101423 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20140718092328 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 20e8 12|1r6 2r6 2r23 3r6 3r31
+X 3 a-inteio.ads
+18K13*Integer_Text_IO[8|46] 12|3w10 3r35
+X 4 a-ioexce.ads
+18K13*IO_Exceptions 30e22 12|1w10
+X 7 a-textio.ads
+49K13*Text_IO 471e16 12|2w10 2r27
+242U14*Put 12|10s4
+X 11 google_creux.ads
+5i4 Borne{integer} 44r33 46r40 51r33 12|47r23 51r23 54r29 56r77 60r28 65r154
+. 69r102 81r19 133r19
+7k9*Google_Creux 5z4 44E9 53l5 53e17 12|6b14 150l5 150t17
+8F9*T_DoubleC<short_float> 15r115 26r95 30r77 44r43 48r38 12|10r8 13r115
+. 43r12 56r67 65r72 65r89 65r123 65r144 69r71 69r92 92r95 108r77 130r14
+10A9*T_NetworkC(15|11P14[48]) 15r47 17r33 23r38 51c9 12|8r33 13r47 42r39
+11A9*T_VecteurC(8F9) 23r60 26r51 30r42 36r48 38r39 44c9 12|42r61 44r15 92r51
+. 108r42 123r51 129r39
+12A9*T_Vecteur_EntierC(integer) 28r58 32r49 34r48 46c9 12|101r58 113r49 118r48
+15U14*Enregistrer_Net 15=30 15>59 15>82 15>104 12|13b14 17l8 17t23
+15a30 Network{10A9} 12|13b30 16m26 16r26
+15i59 pointeur{integer} 12|13b59 16r43
+15i82 pointee{integer} 12|13b82 16r34
+15f104 Value{8F9} 12|13b104 16r52
+17U14*Afficher 17>24 17>45 17>63 12|8b14 11l8 11t16
+17a24 Network{10A9} 12|8b24 10r40
+17i45 index{integer} 12|8b45 10r48
+17i63 jndex{integer} 12|8b63 10r55
+23U14*Multiplication_C 23>31 23=50 23>73 12|42b14 87l8 87t24
+23a31 G{10A9} 12|42b31 53r28 62r39 65r112
+23a50 V{11A9} 12|42b51 56r53 65r62 69r62 82m10
+23f73 Alpha{float} 12|42b74 65r82 65r137 69r85
+26U14*AffectationC 26=27 26>63 26>79 12|92b14 99l8 99t20
+26a27 Vecteur_poidsC{11A9} 12|92b27 95m7
+26i63 i{integer} 12|92b63 95r22
+26f79 V_initiale{8F9} 12|92b79 95r28
+28U14*Affectation_EntierC 28=34 28>77 28>93 12|101b14 106l8 106t27
+28a34 Vecteur_poidsC{12A9} 12|101b34 104m7
+28i77 i{integer} 12|101b77 104r22
+28i93 V{integer} 12|101b93 104r28
+30V13*ValeurC{8F9} 30>22 30>54 12|108b13 111l8 111t15
+30a22 Vecteur_poidsC{11A9} 12|108b22 110r14
+30i54 i{integer} 12|108b54 110r29
+32V13*Valeur_EntierC{integer} 32>29 32>68 12|113b13 116l8 116t22
+32a29 Vecteur_poidsC{12A9} 12|113b29 115r14
+32i68 i{integer} 12|113b68 115r29
+34U14*DecalageC 34=25 34>66 34>81 12|118b14 121l8 121t17
+34a25 Vecteur_rangC{12A9} 12|118b25 120m7 120r27
+34i66 i{integer} 12|118b66 120r21
+34i81 j{integer} 12|118b81 120r41
+36U14*DecalageC 36=25 36>59 36>74 12|123b17 126l8 126t17
+36a25 Vecteur_rangC{11A9} 12|123b28 125m7 125r27
+36i59 i{integer} 12|123b62 125r21
+36i74 j{integer} 12|123b77 125r41
+38U14*TrierC 38=21 12|129b14 148l8 148t14
+38a21 VecteurC{11A9} 12|129b21 135r22 138r31 140m14 140r29 145m10
+48K12 P_LCA[15|9] 49r8 12|10r24 16r8 53r13 62r20 65r99
+X 12 google_creux.adb
+43f4 Somme{11|8F9}
+44a4 V_tampon{11|11A9} 48m10 56m16 56r35 65m25 65r44 69m25 69r44 82r18
+47i11 index{integer} 48r19
+51i11 index{integer} 53r30 56r55 62r41 65r64 65r114 69r64
+54i17 jndex{integer} 56r25 56r44
+60i16 jndex{integer} 62r48 65r34 65r53 69r34 69r53
+81i11 i{integer} 82r12 82r27
+130f4 TamponC{11|8F9} 135m11 138r47 145r25
+131i4 j{integer} 136m11 138r18 138r40 140r23 140r38 142m14 142r19 145r19
+133i11 i{integer} 135r31 136r16
+X 15 lca.ads
+9k9*LCA 11|1w6 48r25 12|4w6 15|80e8
+11P14 T_LCA 11|51r43[48]
+19V18 Est_Vide{boolean} 12|53s19[11|48]
+23V18 Taille{integer} 12|65s105[11|48]
+30U19 Enregistrer 12|16s14[11|48]
+46V18 Cle_Presente{boolean} 12|62s26[11|48]
+51V18 La_Donnee{11|8F9} 12|10s30[11|48]
+

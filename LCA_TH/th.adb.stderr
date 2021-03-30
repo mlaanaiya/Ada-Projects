@@ -1,0 +1,4 @@
+th.adb:1:09: warning: unit "Ada.Unchecked_Deallocation" is not referenced
+th.adb:3:06: warning: unit "TH" is not referenced
+th.ads:1:06: warning: no entities of "SDA_Exceptions" are referenced in spec
+th.ads:1:06: warning: with clause might be moved to body

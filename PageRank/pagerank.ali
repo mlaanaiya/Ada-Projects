@@ -1,0 +1,270 @@
+V "GNAT Lib v7"
+M P W=b
+A -O2
+A -gnatA
+A -g
+A -gnateE
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_LOCAL_ALLOCATORS
+RV NO_NESTED_FINALIZATION
+RV NO_RECURSION
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_ALLOCATORS_AFTER_ELABORATION
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+RV SPARK_05
+
+U pagerank%b		pagerank.adb		40e05610 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.assertions%s	a-assert.adb		a-assert.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.io_exceptions%s	a-ioexce.ads		a-ioexce.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.unchecked_deallocation%s
+W google_creux%s	google_creux.adb	google_creux.ali
+W google_naive%s	google_naive.adb	google_naive.ali
+Z lca%s			lca.adb			lca.ali
+Z sda_exceptions%s	sda_exceptions.ads	sda_exceptions.ali
+W system%s		system.ads		system.ali
+W system.exception_table%s  s-exctab.adb	s-exctab.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+W system.val_int%s	s-valint.adb		s-valint.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+
+D ada.ads		20170106103348 76789da1 ada%s
+D a-assert.ads		20150130152538 a1febc19 ada.assertions%s
+D a-charac.ads		20070912115821 2d3ec45b ada.characters%s
+D a-chlat1.ads		20140225151544 66457d31 ada.characters.latin_1%s
+D a-comlin.ads		20140225151544 ea62afbc ada.command_line%s
+D a-except.ads		20151016123252 291912d5 ada.exceptions%s
+D a-finali.ads		20151020095656 bf4f806b ada.finalization%s
+D a-flteio.ads		20070406091342 e18a47a0 ada.float_text_io%s
+D a-inteio.ads		20070406091342 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20140225151544 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20141120112812 119b8fb3 ada.streams%s
+D a-string.ads		20070406091342 90ac6797 ada.strings%s
+D a-strmap.ads		20140611123156 e8bb714a ada.strings.maps%s
+D a-strunb.ads		20161012122725 ecdfa332 ada.strings.unbounded%s
+D a-tags.ads		20151016130316 01f5e3ef ada.tags%s
+D a-textio.ads		20140717063745 386df5d4 ada.text_io%s
+D a-tiflio.ads		20140717063513 56fbda09 ada.text_io.float_io%s
+D a-tiinio.ads		20140717063513 aa04e5d6 ada.text_io.integer_io%s
+D a-unccon.ads		20170106103348 31484697 ada.unchecked_conversion%s
+D a-uncdea.ads		20070406091342 f15a5ed1 ada.unchecked_deallocation%s
+D google_creux.ads	20210120130411 69501601 google_creux%s
+D google_creux.adb	20210120122236 f3aa9015 google_creux%b
+D google_naive.ads	20210120144054 aaa01f9d google_naive%s
+D google_naive.adb	20210120122236 c8fb24d3 google_naive%b
+D interfac.ads		20160502101001 5ab55268 interfaces%s
+D i-cstrea.ads		20140801100435 e53d8b8e interfaces.c_streams%s
+D lca.ads		20210116170656 ff70de82 lca%s
+D lca.adb		20210117013241 0e2efe96 lca%b
+D pagerank.adb		20210120144931 7ff3ac38 pagerank%b
+D sda_exceptions.ads	20201221202800 58fab764 sda_exceptions%s
+D system.ads		20170510173650 4635ec04 system%s
+D s-assert.ads		20140225151544 cd8d2c94 system.assertions%s
+D s-atocou.ads		20151020101020 b45c2d8d system.atomic_counters%s
+D s-crtl.ads		20141120112812 0ebbdb71 system.crtl%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-ficobl.ads		20140718105747 078245e4 system.file_control_block%s
+D s-finmas.ads		20151016130316 7811a767 system.finalization_masters%s
+D s-finroo.ads		20120426095924 4ff27390 system.finalization_root%s
+D s-imgint.ads		20090409150019 02dbe0c2 system.img_int%s
+D s-imgrea.ads		20090409150019 c7a851e2 system.img_real%s
+D s-memory.ads		20160622104833 597d6634 system.memory%s
+D s-parame.ads		20140801093848 7e2a0d7f system.parameters%s
+D s-secsta.ads		20170112134946 9751b57e system.secondary_stack%s
+D s-soflin.ads		20151020124036 14e1eb6c system.soft_links%s
+D s-stache.ads		20140225151139 a37c21ec system.stack_checking%s
+D s-stalib.ads		20151112104907 09bd3940 system.standard_library%s
+D s-stalib.adb		20140225151139 f2fe2716 system.standard_library%b
+D s-stoele.ads		20140225151139 2dc34a04 system.storage_elements%s
+D s-stopoo.ads		20131010103753 b16154c2 system.storage_pools%s
+D s-stposu.ads		20151020120548 97a6219c system.storage_pools.subpools%s
+D s-stratt.ads		20131014135145 aedef97e system.stream_attributes%s
+D s-traent.ads		20140730135025 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20160502101423 34867c83 system.unsigned_types%s
+D s-valint.ads		20090409150019 48a52a3f system.val_int%s
+D s-valrea.ads		20150106102044 fe297711 system.val_real%s
+D s-wchcon.ads		20140718092328 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 20e8 29|1r6 2r6 2r23 3r6 3r29 4r6 4r31 5r6 5r28 6r6 7r6 10r6 10r26
+. 14r23 18r11
+X 2 a-assert.ads
+50K13*Assertions 66e19 29|10w10 10r30
+60U14*Assert 29|197s7 301s7
+X 5 a-comlin.ads
+38K13*Command_Line 139e21 29|5w10 5r32
+41V13*Argument_Count{natural} 29|45s14 67s36 69s36 96s33 145s51 162s51 184s45
+. 206s36 248s51 264s51 288s45
+48V13*Argument{string} 29|35s27 46s13 50s16 52s37 54s16 56s34 96s24 145s42
+. 162s42 184s36 206s27 248s42 264s42 288s36
+X 8 a-flteio.ads
+20K13*Float_Text_IO[17|46] 29|3w10 3r33
+X 9 a-inteio.ads
+18K13*Integer_Text_IO[18|46] 29|4w10 4r35
+X 10 a-ioexce.ads
+18K13*IO_Exceptions 30e22 29|1w10
+X 12 a-string.ads
+16K13*Strings 35e16 29|6r10 7w10 14r27
+X 14 a-strunb.ads
+76K21*Unbounded 490e26 29|6w18 14r35
+79R9*Unbounded_String<7|43R9> 474e14 29|20r70
+84V13*Length{natural} 29|146s49 163s49 185s41 249s50 265s50 289s41
+94V13*To_Unbounded_String{79R9} 29|145s22 162s22 184s16 248s22 264s22 288s16
+100V13*To_String{string} 29|149s30 152s31 166s30 169s31 192s24 251s30 254s31
+. 268s30 271s31 296s24
+111U14*Append 29|148s7 165s7 187s4 250s7 267s7 291s4
+159U14*Unbounded_Slice 29|146s7 163s7 185s4 249s7 265s7 289s4
+X 16 a-textio.ads
+49K13*Text_IO 471e16 29|2w10 2r27 18r15
+52P9*File_Type 29|18r23
+53n23*In_File{53E9} 29|35r18 96r15 192r15 206r18 296r15
+53n32*Out_File{53E9} 29|149r20 166r20 251r20 268r20
+53n42*Append_File{53E9} 29|152r18 169r18 254r18 271r18
+86U14*Create 29|149s7 166s7 251s7 268s7
+92U14*Open 29|35s7 96s4 152s7 169s7 192s4 206s7 254s7 271s7 296s4
+98U14*Close 29|37s7 104s7 150s7 159s7 167s7 180s7 199s4 214s7 252s7 261s7
+. 269s7 283s7 304s4
+165U14*New_Line 29|157s10 175s7 178s10 259s10 272s7 278s7 281s10
+183V13*End_Of_File{boolean} 29|99s17 209s17
+241U14*Put 29|155s10 171s7 173s7 177s10 257s10 274s7 276s7 280s10
+242U14*Put 29|200s4 303s4
+X 17 a-tiflio.ads
+61U14*Put 29|172s7[8|20] 275s7[8|20]
+X 18 a-tiinio.ads
+51U14*Get 29|36s7[9|18] 97s4[9|18] 100s10[9|18] 101s10[9|18] 195s7[9|18]
+. 207s4[9|18] 210s10[9|18] 211s10[9|18] 299s7[9|18]
+60U14*Put 29|170s7[9|18] 174s7[9|18] 273s7[9|18] 277s7[9|18]
+X 21 google_creux.ads
+7k9*Google_Creux 53e17 29|9w6 67r13
+8F9 T_DoubleC<short_float> 29|79r17[66] 112r23[66] 177r19[66]
+10A9 T_NetworkC(27|11P14[48[29|66]]) 29|86r16[66]
+11A9 T_VecteurC(8F9[29|66]) 29|76r37[66]
+12A9 T_Vecteur_EntierC(integer) 29|77r20[66]
+15U14 Enregistrer_Net 29|102s10[66]
+23U14 Multiplication_C 29|119s10[66]
+26U14 AffectationC 29|114s10[66] 130s10[66]
+28U14 Affectation_EntierC 29|140s16[66]
+30V13 ValeurC{8F9[29|66]} 29|130s42[66] 139s16[66] 139s45[66] 177s36[66]
+32V13 Valeur_EntierC{integer} 29|154s15[66] 197s27[66]
+38U14 TrierC 29|135s7[66]
+X 23 google_naive.ads
+8k9*Google_Naive 64e17 29|8w6 69r13
+10F9 T_Double<short_float> 29|80r16[68] 112r37[68] 220r25[68] 220r38[68]
+. 280r19[68]
+11A9 T_Network(27|11P14[59[29|68]]) 29|85r16[68]
+12A9 T_Google(10F9[29|68]) 29|74r8[68]
+13A9 T_Vecteur(10F9[29|68]) 29|75r35[68]
+14A9 T_Vecteur_Entier(integer) 29|78r19[68]
+17U14 Initialiser_G 29|216s7[68]
+23U14 Enregistrer_Net 29|212s10[68]
+31U14 Multiplication_N 29|225s10[68]
+34U14 Affectation 29|221s10[68] 233s7[68]
+36U14 Affectation_Entier 29|243s16[68]
+38V13 Valeur{10F9[29|68]} 29|233s37[68] 242s16[68] 242s43[68] 280s35[68]
+40V13 Valeur_Entier{integer} 29|256s15[68] 301s27[68]
+47U14 Trier 29|238s7[68]
+X 27 lca.ads
+11P14 T_LCA
+X 29 pagerank.adb
+12U11*pagerank 12b11 308l5 308t13
+14K12 SU=14:35 15r8 20r67
+18p4 File{16|52P9} 35m12 35r12 36r11 37m13 37r13 96m9 96r9 97r8 99r29 100r14
+. 101r14 104m13 104r13 149m14 149r14 150m13 150r13 152m12 152r12 155r14 157r19
+. 159m13 159r13 166m14 166r14 167m13 167r13 169m12 169r12 170r11 171r11 172r11
+. 173r11 174r11 175r16 177r14 178r19 180m13 180r13 192m9 192r9 195r11 199m10
+. 199r10 206m12 206r12 207r8 209r29 210r14 211r14 214m13 214r13 251m14 251r14
+. 252m13 252r13 254m12 254r12 257r14 259r19 261m13 261r13 268m14 268r14 269m13
+. 269r13 271m12 271r12 272r16 273r11 274r11 275r11 276r11 277r11 278r16 280r14
+. 281r19 283m13 283r13 296m9 296r9 299r11 304m10 304r10
+20r4 Nom_Fichier{14|79R9} 145m7 146r23 146m35 146r56 148m14 148r14 149r41
+. 152r42 162m7 163r23 163m35 163r56 165m14 165r14 166r41 169r42 248m7 249r23
+. 249r57 264m7 265r23 265r57
+20r17 Nom_testr{14|79R9} 185m29 187m11 187r11 192r34 289m29 291m11 291r11
+. 296r34
+20r28 Nom_test{14|79R9} 184m4 185r20 185r48 288m4 289r20 289r48
+20r38 Nom_Fichierr{14|79R9} 249m35 250m14 250r14 251r41 254r42
+20r52 Nom_Fichierp{14|79R9} 265m35 267m14 267r14 268r41 271r42
+22X4 No_Argument_Error
+25X4 Exception_Option_not_Valid 59r20
+28f4 Alpha{float} 91m28 91r28 119r52 172r16 216r35 275r16
+29i4 Nb_Max{integer} 91m35 91r35 117r19 174r16 224r19 277r16
+30i4 Borne{integer} 36m17 38r14 97m14 112r46 113r19 129r19 137r19 138r22
+. 153r19 154r44 170r16 176r19 177r60 194r16 197r56 207m14 219r19 220r47 232r19
+. 240r19 241r22 255r19 256r42 273r16 279r19 280r57 298r16 301r54
+31b4 Creuse{boolean} 91m20 91r20 94r7
+33V13 Nb_Noeuds{integer} 33b13 33>23 39t7 67s26 69s26
+33i23 n{integer} 35r36
+42U14 Traiter_Donnees 42b14 42=30 42=55 42=77 64l8 64t23 91s4
+42b30 Creuse{boolean} 47m13
+42f55 Alpha{float} 56m13
+42i77 Nb_Max{integer} 52m13
+43i4 i{integer} 45r10 46r22 48m13 48r18 50r25 52r46 53m13 53r18 54r25 56r43
+. 57m13 57r18
+66K15 Google_C[21|7] 71r11
+68K15 Google_N[23|8] 70r11
+73i4 count{integer}
+74a4 G{23|12A9[68]} 216m21 225r27
+75a4 Vecteur_poids{23|13A9[68]} 221m22 221r22 225m29 225r29 233r44 242r50
+75a19 Vecteur_poids2{23|13A9[68]} 233m19 233r19 238m13 238r13 242r23 280r42
+76a4 Vecteur_poidsC{21|11A9[66]} 114m23 114r23 119m37 119r37 130r50 139r53
+76a20 Vecteur_poids2C{21|11A9[66]} 130m23 130r23 135m14 135r14 139r24 177r44
+77a4 Vecteur_rangC{21|12A9[66]} 140m36 140r36 154r30 197r42
+78a4 Vecteur_rang{23|14A9[68]} 243m35 243r35 256r29 301r41
+79f4 V_initialeC{21|8F9[66]} 112m7 114r40
+80f4 V_initiale{23|10F9[68]} 220m10 221r38
+83i4 pointeur{integer} 100m19 102r46 210m19 212r46
+83i13 pointee{integer} 101m19 102r36 211m19 212r36
+84i4 X{integer} 154m10 155r33 256m10 257r33
+84i7 rang_test{integer} 195m17 197r15 299m17 301r15
+85a4 Network_N{23|11A9[68]} 212m26 212r26 216r24
+86a4 Network_C{21|10A9[66]} 102m26 102r26 119r27
+113i11 i{integer} 114r38
+117i11 i{integer}
+129i11 i{integer} 130r39 130r65
+137i11 i{integer} 139r40 140r50
+138i14 j{integer} 139r68 140r52
+153i11 i{integer} 154r50
+176i11 i{integer} 177r66
+194i8 i{integer} 197r62
+219i11 i{integer} 221r36
+224i11 i{integer}
+232i11 i{integer} 233r34 233r58
+240i11 i{integer} 242r38 243r48
+241i14 j{integer} 242r64 243r50
+255i11 i{integer} 256r48
+279i11 i{integer} 280r63
+298i8 i{integer} 301r60
+X 31 system.ads
+67M9*Address
+X 41 s-memory.ads
+53V13*Alloc{31|67M9} 103i<c,__gnat_malloc>22
+68U14*Free 104i<c,__gnat_free>22
+76V13*Realloc{31|67M9} 105i<c,__gnat_realloc>22
+X 47 s-stalib.adb
+93U14 Break_Start 94i<c,__gnat_break_start>22
+
